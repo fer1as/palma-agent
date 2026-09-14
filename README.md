@@ -14,21 +14,14 @@ A strategic assistant that helps develop ideas, make decisions, and detect when 
 ### Max
 A task executor. The user asks, Max delivers: documents, emails, stock management, customer service, automations.
 
-### Mía
+### Mia
 A marketing and social media assistant. Content strategy, publications, visual design, calendars. Over 100 dedicated tools.
-
-## Current Status
-
-- 1 active user since August 2026
-- 10-20 beta testers at €17/month
-- Running 24/7 on a VPS in Europe
-- Built over 10 months using open source frameworks
 
 ## Stack
 
 - [Hermes Agent](https://github.com/hermes-agent) — open source agent framework
 - [OpenCode](https://github.com/opencode-ai) — open source AI coding assistant
-- Hetzner VPS — European infrastructure, GDPR compliant
+- European infrastructure, GDPR compliant
 
 ## Mission
 
@@ -36,10 +29,8 @@ We believe intelligent automation should not be a privilege of large companies. 
 
 ## Financial Transparency
 
-All expenses and income are managed through [Open Collective Europe](https://opencollective.com/europe) with a public ledger.
+All expenses and income are managed through Open Collective Europe with a public ledger.
 
 ## Contact
 
-Fernando Presello
-agenciapalmaagent@gmail.com
-https://palma-agent.com
+palma-agent.com
